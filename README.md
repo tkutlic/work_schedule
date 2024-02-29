@@ -2,6 +2,8 @@
 
 Let's learn React by creating a work schedule app...
 
+Testiram commit ....dodao tekst
+
 ## Description
 
 Let's learn React by creating a work schedule app...
@@ -36,6 +38,3 @@ command to run if program contains helper info
 ```
 
 ## Authors
-
-
-
